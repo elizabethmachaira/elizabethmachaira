@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Elizabeth! Mathematical & Computing Sciences for AI at Bocconi
 
 <!--
 **elizabethmachaira/elizabethmachaira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
