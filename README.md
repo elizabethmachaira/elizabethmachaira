@@ -8,7 +8,7 @@ I work at the intersection of machine learning, computational biology, and data 
 
 ## Skills
 
-**Languages:** Python · R · SQL  
+**Languages:** Python · R 
 **ML / AI:** PyTorch · scikit-learn · HuggingFace · computer vision · NLP  
 **Data:** pandas · NumPy · matplotlib · seaborn  
 **Tools:** Git · Jupyter · REST APIs · FastAPI
