@@ -22,7 +22,7 @@ I work at the intersection of machine learning, computational biology, and data 
 | Project | Description | Stack |
 |---|---|---|
 | [cutler-multiscale](https://github.com/elizabethmachaira/cutler-multiscale) | Improving small-object detection in CutLER via multi-scale pseudo-label generation | Python · PyTorch |
-| [cv-object-detection](https://github.com/elizabethmachaira/cv-object-detection) | Evaluated pre-trained CV architectures on an animal image dataset; benchmarked performance with and without data augmentation | Python · PyTorch |
+| [cv-object-detection](https://github.com/elizabethmachaira/cv-object-detection) | Compared ResNet18, ResNet50, and ViT for image classification across 90 animal species; evaluated impact of custom data augmentation using 5-fold CV | Python · PyTorch · HuggingFace |
 
 ### Bioinformatics & Computational Biology
 
