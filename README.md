@@ -8,10 +8,10 @@ I work at the intersection of machine learning, computational biology, and data 
 
 ## Skills
 
-**Languages:** Python · R · SQL  
+**Languages:** Python · R  
 **ML / AI:** PyTorch · scikit-learn · HuggingFace · computer vision · NLP  
 **Data:** pandas · NumPy · matplotlib · seaborn  
-**Tools:** Git · Jupyter · REST APIs · FastAPI
+**Tools:** Git · Jupyter · REST APIs · FastAPI · Snowflake
 
 ---
 
@@ -36,7 +36,7 @@ I work at the intersection of machine learning, computational biology, and data 
 
 | Project | Description | Stack |
 |---|---|---|
-| [ai-framing-project](https://github.com/elizabethmachaira/ai-framing-project) | Analyzing AI framing in media and discourse using NLP techniques | Python |
+| [ai-framing-project](https://github.com/elizabethmachaira/ai-framing-project) | Analyzing AI framing in media and discourse using NLP techniques; data stored in Snowflake | Python · Snowflake |
 | [taxi-tip-prediction](https://github.com/elizabethmachaira/taxi-tip-prediction) | Regression models to predict NYC yellow cab tip amounts from trip data | Python · XGBoost |
 | [forest-fire-analysis](https://github.com/elizabethmachaira/forest-fire-analysis) | Statistical modeling of fire occurrence and burned area using UCI dataset | R |
 
