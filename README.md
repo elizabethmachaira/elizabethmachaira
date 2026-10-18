@@ -1,6 +1,7 @@
 # Hi, I'm Elizabeth 👋
 
-**BSc Mathematical & Computing Sciences for AI** · Bocconi University
+**MSc in Artificial Intelligence** · Bocconi University  
+BSc Mathematical & Computing Sciences for AI · Bocconi University
 
 I work at the intersection of machine learning, computational biology, and data science — building models that extract meaning from complex, high-dimensional data.
 
@@ -56,7 +57,7 @@ I work at the intersection of machine learning, computational biology, and data 
 
 ## Currently
 
-- Pursuing my BSc in Mathematical & Computing Sciences for AI at Bocconi
+- Currently pursuing an MSc in Artificial Intelligence at Bocconi University
 - Exploring opportunities in ML research, data science, and AI engineering
 
 📫 elizabethmachairas@icloud.com
